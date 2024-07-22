@@ -68,11 +68,6 @@ This project is designed to generate and execute Ansible playbooks using Large L
 - Logs are saved in the `playbook_output_<timestamp>` directory created during execution.
 - Logs include detailed information about each iteration, including prompts, responses, and errors.
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Requests](https://docs.python-requests.org/)
