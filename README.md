@@ -1,4 +1,4 @@
-# Ansible Playbook Generation and Execution with LLM
+# IaC Generation and Execution with LLM
 
 This project is designed to generate and execute Ansible playbooks using Large Language Models (LLMs). It takes a user requirement, refines it into a prompt, and generates a playbook through multiple iterations of refining and validation.
 
