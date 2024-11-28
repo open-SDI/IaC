@@ -21,8 +21,8 @@ This project is designed to generate and execute Ansible playbooks using Large L
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/ansible-playbook-llm.git
-    cd ansible-playbook-llm
+    git clone https://github.com/open-SDI/IaC.git
+    cd IaC
     ```
 
 2. Create a virtual environment and activate it:
